@@ -6,7 +6,7 @@
 
 <html>
   
-  <title></title>
+  <title>Head</title>
   <body>Hello</body>
   </html>
   
